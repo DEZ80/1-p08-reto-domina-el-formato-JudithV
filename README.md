@@ -41,5 +41,5 @@ PC: 4000
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](/4rojo.jpg)
 ![Actividad 2](/2rojo4otro.jpg)
-![Actividad 2](/2en2.jpg)
+![Actividad 3](/2en2.jpg)
 
